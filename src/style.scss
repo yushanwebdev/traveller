@@ -787,6 +787,7 @@ footer {
 	@include media-breakpoint-up(xl) {
 		.footer-container {
 			padding-top: 100px;
+			padding-bottom: 100px;
 
 			.link-tel,
 			.link-mail {
